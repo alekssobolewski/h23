@@ -11,15 +11,15 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: alekssobolewski.github.io
-  baseUrl: h23
+  cname: status.arenescientific.com
+  # baseUrl: h23
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime).
   navbar:
     - title: Status
-      href: /
+      href: /h23
       
 status-website:
   theme: ocean
