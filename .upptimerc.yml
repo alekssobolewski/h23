@@ -20,8 +20,6 @@ status-website:
   navbar:
     - title: Status
       href: /h23
-      
-status-website:
   theme: ocean
 
 # Upptime also supports notifications, assigning issues, and more
