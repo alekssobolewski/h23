@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/arenescientific.com.ico",
     "slug": "arene-scientific-com",
     "status": "down",
-    "uptime": "3.19%",
-    "uptimeDay": "3.19%",
-    "uptimeWeek": "3.19%",
-    "uptimeMonth": "3.19%",
-    "uptimeYear": "3.19%",
-    "time": 130,
-    "timeDay": 130,
-    "timeWeek": 130,
-    "timeMonth": 130,
-    "timeYear": 130,
+    "uptime": "0.94%",
+    "uptimeDay": "0.94%",
+    "uptimeWeek": "0.94%",
+    "uptimeMonth": "0.94%",
+    "uptimeYear": "0.94%",
+    "time": 114,
+    "timeDay": 114,
+    "timeWeek": 114,
+    "timeMonth": 114,
+    "timeYear": 114,
     "dailyMinutesDown": {
-      "2022-11-29": 0
+      "2022-11-29": 2
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 602,
-    "timeDay": 602,
-    "timeWeek": 602,
-    "timeMonth": 602,
-    "timeYear": 602,
+    "time": 551,
+    "timeDay": 551,
+    "timeWeek": 551,
+    "timeMonth": 551,
+    "timeYear": 551,
     "dailyMinutesDown": {}
   }
 ]
