@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 99,
-    "timeDay": 140,
-    "timeWeek": 137,
+    "timeDay": 68,
+    "timeWeek": 134,
     "timeMonth": 119,
     "timeYear": 102,
     "dailyMinutesDown": {}
@@ -24,17 +24,16 @@
     "slug": "h23",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "98.42%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "98.44%",
     "uptimeYear": "99.73%",
     "time": 882,
-    "timeDay": 697,
-    "timeWeek": 779,
-    "timeMonth": 995,
+    "timeDay": 742,
+    "timeWeek": 802,
+    "timeMonth": 999,
     "timeYear": 870,
     "dailyMinutesDown": {
-      "2024-12-03": 9,
       "2024-12-02": 52,
       "2024-12-01": 23,
       "2024-11-30": 20,
@@ -80,8 +79,7 @@
       "2024-01-19": 16,
       "2024-01-17": 16,
       "2024-01-04": 40,
-      "2023-12-29": 16,
-      "2023-12-05": 45
+      "2023-12-29": 16
     }
   }
 ]
