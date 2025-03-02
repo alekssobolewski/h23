@@ -4,17 +4,17 @@
     "url": "https://arenescientific.com",
     "icon": "https://icons.duckduckgo.com/ip3/arenescientific.com.ico",
     "slug": "arenescientific-com",
-    "status": "up",
-    "uptime": "97.03%",
-    "uptimeDay": "38.07%",
-    "uptimeWeek": "12.15%",
-    "uptimeMonth": "19.43%",
-    "uptimeYear": "93.29%",
+    "status": "down",
+    "uptime": "97.04%",
+    "uptimeDay": "39.34%",
+    "uptimeWeek": "12.33%",
+    "uptimeMonth": "19.76%",
+    "uptimeYear": "93.31%",
     "time": 468,
-    "timeDay": 880,
-    "timeWeek": 890,
-    "timeMonth": 863,
-    "timeYear": 554,
+    "timeDay": 864,
+    "timeWeek": 885,
+    "timeMonth": 857,
+    "timeYear": 553,
     "dailyMinutesDown": {
       "2025-03-02": 278,
       "2025-03-01": 1045,
@@ -42,7 +42,7 @@
       "2025-02-07": 1440,
       "2025-02-06": 1194,
       "2025-02-05": 1328,
-      "2025-02-04": 772
+      "2025-02-04": 627
     }
   },
   {
