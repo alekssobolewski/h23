@@ -3,9 +3,7 @@ owner: alekssobolewski # Your GitHub organization or username, where this reposi
 repo: h23 # The name of this repository
 
 sites:
-  - name: arenescientific.com
-    url: https://arenescientific.com
-  - name: h23
+  - name: Hosting Provider
     url: https://h23.seohost.pl:2222/
     
 status-website:
@@ -13,10 +11,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.arenescientific.com
   # baseUrl: h23
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://arenescientific.com/wp-content/uploads/2021/06/logo-small_Obszar-roboczy-1.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime).
+  introMessage: This is a status page which uses **real-time** data.
   navbar:
     - title: Status
       href: /h23
