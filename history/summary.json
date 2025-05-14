@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/h23.seohost.pl.ico",
     "slug": "hosting-provider",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 766,
-    "timeDay": 577,
-    "timeWeek": 675,
+    "uptimeYear": "99.97%",
+    "time": 770,
+    "timeDay": 911,
+    "timeWeek": 699,
     "timeMonth": 744,
-    "timeYear": 766,
+    "timeYear": 770,
     "dailyMinutesDown": {
       "2025-05-08": 17
     }
