@@ -6,17 +6,16 @@
     "slug": "hosting-provider",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 826,
-    "timeDay": 918,
-    "timeWeek": 930,
-    "timeMonth": 880,
-    "timeYear": 826,
+    "time": 825,
+    "timeDay": 882,
+    "timeWeek": 866,
+    "timeMonth": 868,
+    "timeYear": 825,
     "dailyMinutesDown": {
-      "2025-10-18": 8,
       "2025-05-08": 17
     }
   }
