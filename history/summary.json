@@ -4,7 +4,7 @@
     "url": "https://h23.seohost.pl:2222/",
     "icon": "https://icons.duckduckgo.com/ip3/h23.seohost.pl.ico",
     "slug": "hosting-provider",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.68%",
@@ -16,6 +16,7 @@
     "timeMonth": 973,
     "timeYear": 873,
     "dailyMinutesDown": {
+      "2025-12-15": 0,
       "2025-12-13": 109,
       "2025-12-08": 25,
       "2025-12-07": 16,
