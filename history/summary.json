@@ -6,16 +6,17 @@
     "slug": "hosting-provider",
     "status": "up",
     "uptime": "98.69%",
-    "uptimeDay": "60.01%",
-    "uptimeWeek": "86.03%",
-    "uptimeMonth": "94.35%",
+    "uptimeDay": "68.38%",
+    "uptimeWeek": "86.07%",
+    "uptimeMonth": "94.36%",
     "uptimeYear": "98.49%",
     "time": 898,
-    "timeDay": 1563,
-    "timeWeek": 1367,
+    "timeDay": 1790,
+    "timeWeek": 1326,
     "timeMonth": 1298,
     "timeYear": 909,
     "dailyMinutesDown": {
+      "2026-02-15": 18,
       "2026-02-16": 39,
       "2026-02-18": 52,
       "2026-02-19": 104,
@@ -73,7 +74,7 @@
       "2026-06-02": 102,
       "2026-06-03": 391,
       "2026-06-04": 341,
-      "2026-06-05": 575
+      "2026-06-05": 571
     }
   }
 ]
