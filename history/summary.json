@@ -4,17 +4,17 @@
     "url": "https://h23.seohost.pl:2222/",
     "icon": "https://icons.duckduckgo.com/ip3/h23.seohost.pl.ico",
     "slug": "hosting-provider",
-    "status": "down",
-    "uptime": "98.30%",
-    "uptimeDay": "61.74%",
-    "uptimeWeek": "79.04%",
-    "uptimeMonth": "88.21%",
-    "uptimeYear": "97.98%",
+    "status": "up",
+    "uptime": "98.23%",
+    "uptimeDay": "51.20%",
+    "uptimeWeek": "74.76%",
+    "uptimeMonth": "87.22%",
+    "uptimeYear": "97.90%",
     "time": 914,
-    "timeDay": 1270,
-    "timeWeek": 1510,
+    "timeDay": 1302,
+    "timeWeek": 1499,
     "timeMonth": 1377,
-    "timeYear": 928,
+    "timeYear": 929,
     "dailyMinutesDown": {
       "2026-02-23": 166,
       "2026-02-24": 37,
@@ -76,7 +76,7 @@
       "2026-06-13": 59,
       "2026-06-15": 482,
       "2026-06-14": 301,
-      "2026-06-16": 197
+      "2026-06-16": 629
     }
   }
 ]
