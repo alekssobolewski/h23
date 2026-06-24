@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/h23.seohost.pl.ico",
     "slug": "hosting-provider",
     "status": "down",
-    "uptime": "97.94%",
-    "uptimeDay": "84.86%",
-    "uptimeWeek": "76.73%",
-    "uptimeMonth": "81.45%",
-    "uptimeYear": "97.51%",
+    "uptime": "97.91%",
+    "uptimeDay": "68.40%",
+    "uptimeWeek": "75.51%",
+    "uptimeMonth": "81.44%",
+    "uptimeYear": "97.47%",
     "time": 925,
     "timeDay": 1285,
     "timeWeek": 1297,
     "timeMonth": 1366,
     "timeYear": 942,
     "dailyMinutesDown": {
-      "2026-03-07": 66,
+      "2026-03-07": 47,
       "2026-03-08": 46,
       "2026-03-10": 40,
       "2026-03-12": 266,
@@ -76,7 +76,8 @@
       "2026-06-20": 306,
       "2026-06-21": 184,
       "2026-06-22": 353,
-      "2026-06-23": 218
+      "2026-06-23": 218,
+      "2026-06-24": 237
     }
   }
 ]
